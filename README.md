@@ -133,7 +133,10 @@ Secure indoor analytics
 This project follows the same pipeline used in:
 
 **Radar micro-Doppler systems**
+
 **WiFi sensing**
+
 **RF human activity recognition**
 
 but implemented using acoustic ultrasound, making it low-cost, safe, and deployable on consumer devices.
+
