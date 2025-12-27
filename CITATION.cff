@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Privacy-Preserving Indoor Human Activity Sensing Using Acoustic Micro-Doppler"
+message: "If you use this software or methodology, please cite it as below."
+type: software
+authors:
+  - family-names: Nag
+    given-names: Somili
+version: 1.0.0
+date-released: 2025-12-27
+url: "https://github.com/SomiliNag28/Acoustic-MicroDoppler"
+abstract: >
+  This project implements a privacy-preserving indoor human sensing system
+  based on ultrasonic acoustic micro-Doppler. It transmits a continuous
+  18 kHz tone, records reflected audio, isolates Doppler shifts caused by
+  human motion, extracts physics-based features, and applies machine learning
+  to detect human presence while ignoring speech and identity.
+keywords:
+  - acoustic sensing
+  - micro-doppler
+  - privacy-preserving sensing
+  - indoor localization
+  - human activity recognition
+  - signal processing
+  - machine learning
+license: MIT
+repository-code: "https://github.com/SomiliNag28/Acoustic-MicroDoppler"
