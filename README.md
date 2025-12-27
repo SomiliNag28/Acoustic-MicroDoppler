@@ -1,5 +1,4 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/SomiliNag28/Acoustic-MicroDoppler)
 
 # Privacy-Preserving Indoor Human Activity Sensing Using Acoustic Micro-Doppler
 
@@ -142,5 +141,6 @@ This project follows the same pipeline used in:
 **RF human activity recognition**
 
 but implemented using acoustic ultrasound, making it low-cost, safe, and deployable on consumer devices.
+
 
 
